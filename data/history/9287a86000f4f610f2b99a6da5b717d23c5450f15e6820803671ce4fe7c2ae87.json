@@ -1,0 +1,17 @@
+{
+    "created_at": "2026-08-10T11:50:04+08:00",
+    "file_a": "A.xlsx",
+    "file_b": "B.xlsx",
+    "mode": "smart",
+    "summary": {
+        "totalA": 11,
+        "totalB": 11,
+        "matched": 9,
+        "modified": 0,
+        "missingA": 2,
+        "missingB": 2,
+        "duplicate": 0,
+        "invalid": 0
+    },
+    "hash": "9287a86000f4f610f2b99a6da5b717d23c5450f15e6820803671ce4fe7c2ae87"
+}
