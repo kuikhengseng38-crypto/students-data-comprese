@@ -1,0 +1,41 @@
+# Dependencies
+/vendor/
+
+# Uploaded and generated files
+/uploads/*
+!/uploads/.htaccess
+/exports/*
+!/exports/.htaccess
+/logs/*
+!/logs/.gitkeep
+/storage/*
+!/storage/.gitkeep
+/data/history/*.json
+
+# Local secrets, credentials, and database dumps — never publish
+.env
+.env.*
+*.env
+auth.json
+credentials.json
+secrets.json
+config.local.php
+config/database.php
+config/db.php
+*.sql
+*.sql.gz
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.pub
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
